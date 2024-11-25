@@ -15,7 +15,7 @@ Users can set their own **encryption key** and use it to encrypt or decrypt text
 
 You can try the app live at the following link:
 
-[**Stalk - S(ecret) talk** on Vercel](https://stalk-one.vercel.app/)
+[**Stalk - S(ecret) talk** on Vercel](https://securetalk.vercel.app/)
 
 ## **Installation**
 
