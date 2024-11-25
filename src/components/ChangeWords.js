@@ -110,7 +110,7 @@ const ChangeWords = () => {
               id="key"
               value={key}
               onChange={(e) => setKey(e.target.value)}
-              placeholder="Please enter the encryption key."
+              placeholder="Please enter the encryption/decryption key."
               className="w-full p-4 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all"
             />
           </div>
